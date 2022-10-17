@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a12b6e3f7f5e9d4993a1fc4d02b55fc, type: 3}
+  m_Name: WeaponConfigs_Piano
+  m_EditorClassIdentifier: 
+  BaseData: {fileID: 11400000, guid: c3f668681c36444408996279a19f9952, type: 2}
+  level: 0
+  weaponTimer: 0
+  amountToFire: 1
+  possiblePowerUps:
+  - {fileID: 11400000, guid: 187ff2fdc90908d418d6ce3a972df71c, type: 2}
+  - {fileID: 11400000, guid: a60c8a8752a5a1840a6eb051bc0cf8b5, type: 2}
+  - {fileID: 11400000, guid: 040c936794cd92d428fb46e544a9ea0b, type: 2}
+  - {fileID: 11400000, guid: b642495ca4e9e2d4e978b0189c23658a, type: 2}

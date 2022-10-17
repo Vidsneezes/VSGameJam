@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abd10963d74ba1040adf88d18e73fcbb, type: 3}
+  m_Name: StrongEnemyDrop
+  m_EditorClassIdentifier: 
+  itemDrops:
+  - item: {fileID: 11400000, guid: 046719d61255e084bad1b538258db848, type: 2}
+    probability: 16
+    reduceProbability: 0
+    lowRange: 0
+    highRange: 0
+  - item: {fileID: 11400000, guid: bdc4b59131289614a9b234347145794b, type: 2}
+    probability: 200
+    reduceProbability: 0
+    lowRange: 0
+    highRange: 0
+  - item: {fileID: 11400000, guid: 74db7937aef192b47b758319819ccdbc, type: 2}
+    probability: 150
+    reduceProbability: 0
+    lowRange: 0
+    highRange: 0

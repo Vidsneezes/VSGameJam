@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8809593d41568f54f970efe73f70b876, type: 3}
+  m_Name: Sequence1
+  m_EditorClassIdentifier: 
+  waveSequence:
+  - monsterOnTimes:
+    - FirtsTime: 0
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 20
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 15
+      RepeatTime: 3
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: 30e29a5bad67cf5448a99c11430abde7, type: 2}
+      monsterProbabilities: []
+      amount: 5
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 25
+      RepeatTime: 1
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 2
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 30
+      RepeatTime: 25
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 20
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 30
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 60
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 0}
+      monster: {fileID: 11400000, guid: b6c84f983d3414e42befdb48cabadb12, type: 2}
+      monsterProbabilities: []
+      amount: 10
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 15
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 0}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 20
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 50
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 0}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 15
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 40
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 0}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 1
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    duration: 60
+    counterBucket: 0
+    repositionPolicy: {fileID: 11400000, guid: 9f0c06e1f7be7394fba19c28afef21d2, type: 2}
+  - monsterOnTimes: []
+    duration: 15
+    counterBucket: 1
+    repositionPolicy: {fileID: 11400000, guid: 2a68c079f6cfbf04abc8bc0d38f54396, type: 2}
+  - monsterOnTimes:
+    - FirtsTime: 0
+      RepeatTime: 5
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 0
+      RepeatTime: 5
+      SpawnPolicy: {fileID: 11400000, guid: 03d14fe4ae1addf4895301e5fb309c70, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 0
+      RepeatTime: 5
+      SpawnPolicy: {fileID: 11400000, guid: 8d6af42ab952a594d8c36b2d3db1666e, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 0
+      RepeatTime: 5
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    duration: 45
+    counterBucket: 2
+    repositionPolicy: {fileID: 0}
+  - monsterOnTimes:
+    - FirtsTime: 0
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 20
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 15
+      RepeatTime: 3
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: 30e29a5bad67cf5448a99c11430abde7, type: 2}
+      monsterProbabilities: []
+      amount: 5
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 25
+      RepeatTime: 1
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 2
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 30
+      RepeatTime: 25
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 8
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 0
+    - FirtsTime: 20
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+      monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+      monsterProbabilities: []
+      amount: 30
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 45
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: b6c84f983d3414e42befdb48cabadb12, type: 2}
+      monsterProbabilities: []
+      amount: 10
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 15
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 20
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 50
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 15
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    - FirtsTime: 40
+      RepeatTime: 0
+      SpawnPolicy: {fileID: 0}
+      monster: {fileID: 11400000, guid: d88c95b46fc9b8f45b618caa62e87708, type: 2}
+      monsterProbabilities: []
+      amount: 1
+      useSingleMonster: 1
+      hasBeenExecuted: 0
+      oneTime: 1
+    duration: 60
+    counterBucket: 3
+    repositionPolicy: {fileID: 11400000, guid: 82ae52b4d28869849a3d67cb4325d60d, type: 2}
+  - monsterOnTimes: []
+    duration: 40
+    counterBucket: 4
+    repositionPolicy: {fileID: 0}
+  sequenceTemplate:
+  - {fileID: 11400000, guid: 240c7ea2eb82d914f904e341a96bca71, type: 2}
+  - {fileID: 11400000, guid: 155a4bd0455a74d4bb096239c3e64410, type: 2}
+  - {fileID: 11400000, guid: 456291a8324ec7d42883010624314078, type: 2}
+  - {fileID: 11400000, guid: bdc73a8aa2c50b74facc4a411f43123b, type: 2}
+  - {fileID: 11400000, guid: 9dddf39d4ba007c45b2757887fb9462a, type: 2}
+  - {fileID: 11400000, guid: 73c7d5cdfa15d854b8ec61a3103c6bea, type: 2}
+  - {fileID: 11400000, guid: a35fa6af02ded764a9afafd5bafd8e95, type: 2}
+  - {fileID: 11400000, guid: c3a7ac7288ab91345a1528c7fe02f7c7, type: 2}
+  Initialized: 0
+  IsDone: 0

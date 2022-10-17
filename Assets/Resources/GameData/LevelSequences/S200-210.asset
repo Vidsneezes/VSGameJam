@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cad4dca0b059ca4faadb1376e41ecf4, type: 3}
+  m_Name: S200-210
+  m_EditorClassIdentifier: 
+  monsterOnTimes:
+  - FirtsTime: 0
+    RepeatTime: 2
+    SpawnPolicy: {fileID: 11400000, guid: 8d6af42ab952a594d8c36b2d3db1666e, type: 2}
+    monster: {fileID: 11400000, guid: c75be4eeed67efa4db24a6d8e826bc0a, type: 2}
+    monsterProbabilities: []
+    amount: 3
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 0
+  duration: 11
+  counterBucket: 0
+  repositionPolicy: {fileID: 11400000, guid: 2a68c079f6cfbf04abc8bc0d38f54396, type: 2}

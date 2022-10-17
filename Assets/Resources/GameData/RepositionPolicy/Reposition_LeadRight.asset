@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6bfb10bf3a89d4a8887a3872773660, type: 3}
+  m_Name: Reposition_LeadRight
+  m_EditorClassIdentifier: 
+  Time: 0.9
+  AmountMin: 7
+  AmountMax: 13
+  MonsterLimit: 50
+  MonsterReplaceAmount: 28
+  ScaleX: 1.2
+  ScaleY: 1.2
+  FuzzyX: 1.6
+  FuzzyY: 1.2
+  RangeMin: 0.45
+  RangeMax: 0.65
+  Rapid: 1

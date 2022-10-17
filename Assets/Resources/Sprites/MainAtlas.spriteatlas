@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f9dc5066a363d3843a2478fc395f1582, type: 3}
+    - {fileID: 102900000, guid: 4ce3da2d40cf6a046a1a6340cf38f4cc, type: 3}
+    - {fileID: 102900000, guid: 77749227df3d77647928aab38ad78e5b, type: 3}
+    - {fileID: 102900000, guid: 2eb0f7b61b9c97740ab9cb51982c889f, type: 3}
+    - {fileID: 102900000, guid: ebff0521a379adb4f8d5bcaa7128e855, type: 3}
+    - {fileID: 2800000, guid: 189433323b72e914ea5ba383be933539, type: 3}
+    - {fileID: 102900000, guid: e3478c4a3c1472d479e16cc60c0c135c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8895bf502687ebb4381bc483f12ef189, type: 3}
+  - {fileID: 21300000, guid: f0f27d605ad474043ab0e686f494f987, type: 3}
+  - {fileID: 21300000, guid: df3c4e70f8964bd4c86b3f955b098040, type: 3}
+  - {fileID: 21300000, guid: 0eb1e001de864554f96aff32c426989a, type: 3}
+  - {fileID: 21300000, guid: 628fa581e9ee1474194e66e8f7f742b4, type: 3}
+  - {fileID: 21300000, guid: 4c74e5b14c4f19947a14c867d14ecf9d, type: 3}
+  - {fileID: 21300000, guid: 76712c22866a37043a04d4885fdedb71, type: 3}
+  - {fileID: 21300000, guid: 189433323b72e914ea5ba383be933539, type: 3}
+  - {fileID: 21300000, guid: 9b3d75726b546424eab0c453bc524a99, type: 3}
+  - {fileID: 21300000, guid: ffdbee1322bd35c449bd3b684b7401fe, type: 3}
+  - {fileID: 21300000, guid: 3a1236334960254449aebede4dbeda6f, type: 3}
+  - {fileID: 21300000, guid: 6472a16302199944a846bc61e66afb78, type: 3}
+  - {fileID: 21300000, guid: 72a673148024dd84ba9cb4d934739df0, type: 3}
+  - {fileID: 21300000, guid: b2f651348ced7ae4893e950a08a26918, type: 3}
+  - {fileID: 21300000, guid: f9835e447a1fdc54eb625605ed2abdf8, type: 3}
+  - {fileID: 21300000, guid: bc7d4ae4e06b1d446849728693b93f62, type: 3}
+  - {fileID: 21300000, guid: b5d79d35d1848c14a89701dbe097d932, type: 3}
+  - {fileID: 21300000, guid: 7720bf65d49634b45932409e0d2bc242, type: 3}
+  - {fileID: 21300000, guid: 7773dd952cb1abd49b878e0edad846d6, type: 3}
+  - {fileID: 21300000, guid: dceba576bf3d0f74c9296a5fe9426f2c, type: 3}
+  - {fileID: 21300000, guid: 8cda4ec6754fd764c991d52155a6cf85, type: 3}
+  - {fileID: 21300000, guid: aa4fb80714e673f4397bc103aa468244, type: 3}
+  - {fileID: 21300000, guid: d183ac0704218234c87676e70401fd20, type: 3}
+  - {fileID: 21300000, guid: c12705170b7c2d44a93f6a62f40d497c, type: 3}
+  - {fileID: 21300000, guid: e405e177630bb32469488ac18f8607d9, type: 3}
+  - {fileID: 21300000, guid: 34fcbba78312a3f48b601069776df653, type: 3}
+  - {fileID: 21300000, guid: bb33e4c7ab05b4f44b5ea555e345450e, type: 3}
+  - {fileID: 21300000, guid: 6151d3e745a81f5498f04a9f18fd1cdd, type: 3}
+  - {fileID: 21300000, guid: 6b9a71083f2480946bcab877c0503786, type: 3}
+  - {fileID: 21300000, guid: 385bae580c71bea44a485eb88d2e21ee, type: 3}
+  - {fileID: 21300000, guid: dc00f639a1271e24c91b3b36cef4e110, type: 3}
+  - {fileID: 21300000, guid: db22186944c54a749972ad9ec3d7fb20, type: 3}
+  - {fileID: 21300000, guid: 152610a92c1f5b748aa69dc3a493555f, type: 3}
+  - {fileID: 21300000, guid: 8c5066c9584cb904e94771d5d667db00, type: 3}
+  - {fileID: 21300000, guid: dc7b530abeed997448942e29cd80df54, type: 3}
+  - {fileID: 21300000, guid: 5af68c0a22808cb4d84cd6e0bb36e4b3, type: 3}
+  - {fileID: 21300000, guid: 567a671ae218d3143b21e1e986f3173b, type: 3}
+  - {fileID: 21300000, guid: 0c1d0eda803de514b947d17aac03ce58, type: 3}
+  - {fileID: 21300000, guid: 8cfa023bb44af624d9e47d44313fe439, type: 3}
+  - {fileID: 21300000, guid: 812bf77c24c575c44bee4227a76f7c15, type: 3}
+  - {fileID: 21300000, guid: 1fc8777daa285d54baaf6c0cab1a6b0a, type: 3}
+  - {fileID: 21300000, guid: 5c35f7fd6e4c486459801724573b2eb6, type: 3}
+  - {fileID: 21300000, guid: b89d122e92c4fc846b2be7deb90b3627, type: 3}
+  - {fileID: 21300000, guid: eacf2e2edc6aa484d96d0946f9437500, type: 3}
+  - {fileID: 21300000, guid: a07ed86e3cf72bb4d9003bf1066b7702, type: 3}
+  - {fileID: 21300000, guid: c46fe96ed9a4e2a4ca1f056d5a645a8b, type: 3}
+  - {fileID: 21300000, guid: 0f5615befa6bd024188b020d7e21c0a0, type: 3}
+  - {fileID: 21300000, guid: ed85fdee4c02b054ba4ed20591e4041c, type: 3}
+  - {fileID: 21300000, guid: 8c077e7f39994fb48843bb941cff9a7f, type: 3}
+  - {fileID: 21300000, guid: 0c0923af96e302746924da14cdc5026b, type: 3}
+  - {fileID: 21300000, guid: b81968df08e9b464d867e6509df31d4c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - general_0006
+  - w_photonblade
+  - Mon_slime5
+  - general_0003
+  - Mon_eyecaste
+  - items_largecoin
+  - Mon_deatro3
+  - Square16x16
+  - Mon_slime1
+  - Mon_franco
+  - Mon_deatro6
+  - Mon_medmiller
+  - Mon_slime3
+  - items_smallcoin
+  - Mon_eyecasteangry
+  - Mon_deatro1
+  - items_artifact
+  - hero_monstercard
+  - Mon_Hero
+  - general_0001
+  - struct_powerplant
+  - hero_alort
+  - Mon_smallmiller
+  - Mon_slimy
+  - w_piano
+  - w_wideslash
+  - w_weaponcard
+  - Mon_deatro4
+  - Mon_hando3
+  - items_itemcard
+  - general_0008
+  - Mon_hando2
+  - Mon_tomb
+  - w_boomblast
+  - general_0007
+  - general_0004
+  - Mon_slime4
+  - w_Calvary
+  - general_0000
+  - Mon_deatro2
+  - Mon_monstercard
+  - Mon_slime2
+  - Mon_largemiller
+  - general_0002
+  - general_0005
+  - w_CircleHitter
+  - Mon_whipper
+  - w_BloodFangs
+  - Mon_deatro5
+  - w_Copy_photonblade
+  - Mon_hando1
+  m_RenderDataMap: {}
+  m_Tag: MainAtlas
+  m_IsVariant: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cad4dca0b059ca4faadb1376e41ecf4, type: 3}
+  m_Name: S250-310
+  m_EditorClassIdentifier: 
+  monsterOnTimes:
+  - FirtsTime: 0
+    RepeatTime: 8
+    SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+    monster: {fileID: 11400000, guid: 45cfbff391c7c0548aa721c8522f76ff, type: 2}
+    monsterProbabilities: []
+    amount: 8
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 0
+  - FirtsTime: 15
+    RepeatTime: 8
+    SpawnPolicy: {fileID: 11400000, guid: 03d14fe4ae1addf4895301e5fb309c70, type: 2}
+    monster: {fileID: 11400000, guid: c75be4eeed67efa4db24a6d8e826bc0a, type: 2}
+    monsterProbabilities: []
+    amount: 8
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 0
+  - FirtsTime: 40
+    RepeatTime: 8
+    SpawnPolicy: {fileID: 11400000, guid: 03d14fe4ae1addf4895301e5fb309c70, type: 2}
+    monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+    monsterProbabilities: []
+    amount: 20
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 1
+  - FirtsTime: 60
+    RepeatTime: 8
+    SpawnPolicy: {fileID: 11400000, guid: 8d6af42ab952a594d8c36b2d3db1666e, type: 2}
+    monster: {fileID: 11400000, guid: 30e29a5bad67cf5448a99c11430abde7, type: 2}
+    monsterProbabilities: []
+    amount: 4
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 0
+  - FirtsTime: 75
+    RepeatTime: 8
+    SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+    monster: {fileID: 11400000, guid: ce2f9dc1339e80e48a2d61c410218aa6, type: 2}
+    monsterProbabilities: []
+    amount: 4
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 0
+  - FirtsTime: 80
+    RepeatTime: 0
+    SpawnPolicy: {fileID: 11400000, guid: 46e5fd5500201844aac8ce3da99f88ac, type: 2}
+    monster: {fileID: 11400000, guid: 45cfbff391c7c0548aa721c8522f76ff, type: 2}
+    monsterProbabilities: []
+    amount: 30
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 1
+  - FirtsTime: 85
+    RepeatTime: 0
+    SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+    monster: {fileID: 11400000, guid: b6c84f983d3414e42befdb48cabadb12, type: 2}
+    monsterProbabilities: []
+    amount: 11
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 1
+  - FirtsTime: 75
+    RepeatTime: 0
+    SpawnPolicy: {fileID: 11400000, guid: 6c235e0b4d1516e4199f6b4292311c1a, type: 2}
+    monster: {fileID: 11400000, guid: b6c84f983d3414e42befdb48cabadb12, type: 2}
+    monsterProbabilities: []
+    amount: 4
+    useSingleMonster: 0
+    hasBeenExecuted: 0
+    oneTime: 1
+  duration: 60
+  counterBucket: 0
+  repositionPolicy: {fileID: 11400000, guid: 82ae52b4d28869849a3d67cb4325d60d, type: 2}
