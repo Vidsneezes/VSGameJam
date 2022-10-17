@@ -62,12 +62,9 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 0eb1e001de864554f96aff32c426989a, type: 3}
   - {fileID: 21300000, guid: 628fa581e9ee1474194e66e8f7f742b4, type: 3}
   - {fileID: 21300000, guid: 4c74e5b14c4f19947a14c867d14ecf9d, type: 3}
-  - {fileID: 21300000, guid: 76712c22866a37043a04d4885fdedb71, type: 3}
   - {fileID: 21300000, guid: 189433323b72e914ea5ba383be933539, type: 3}
   - {fileID: 21300000, guid: 9b3d75726b546424eab0c453bc524a99, type: 3}
-  - {fileID: 21300000, guid: ffdbee1322bd35c449bd3b684b7401fe, type: 3}
   - {fileID: 21300000, guid: 3a1236334960254449aebede4dbeda6f, type: 3}
-  - {fileID: 21300000, guid: 6472a16302199944a846bc61e66afb78, type: 3}
   - {fileID: 21300000, guid: 72a673148024dd84ba9cb4d934739df0, type: 3}
   - {fileID: 21300000, guid: b2f651348ced7ae4893e950a08a26918, type: 3}
   - {fileID: 21300000, guid: f9835e447a1fdc54eb625605ed2abdf8, type: 3}
@@ -78,16 +75,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: dceba576bf3d0f74c9296a5fe9426f2c, type: 3}
   - {fileID: 21300000, guid: 8cda4ec6754fd764c991d52155a6cf85, type: 3}
   - {fileID: 21300000, guid: aa4fb80714e673f4397bc103aa468244, type: 3}
-  - {fileID: 21300000, guid: d183ac0704218234c87676e70401fd20, type: 3}
   - {fileID: 21300000, guid: c12705170b7c2d44a93f6a62f40d497c, type: 3}
   - {fileID: 21300000, guid: e405e177630bb32469488ac18f8607d9, type: 3}
   - {fileID: 21300000, guid: 34fcbba78312a3f48b601069776df653, type: 3}
   - {fileID: 21300000, guid: bb33e4c7ab05b4f44b5ea555e345450e, type: 3}
-  - {fileID: 21300000, guid: 6151d3e745a81f5498f04a9f18fd1cdd, type: 3}
-  - {fileID: 21300000, guid: 6b9a71083f2480946bcab877c0503786, type: 3}
   - {fileID: 21300000, guid: 385bae580c71bea44a485eb88d2e21ee, type: 3}
   - {fileID: 21300000, guid: dc00f639a1271e24c91b3b36cef4e110, type: 3}
-  - {fileID: 21300000, guid: db22186944c54a749972ad9ec3d7fb20, type: 3}
   - {fileID: 21300000, guid: 152610a92c1f5b748aa69dc3a493555f, type: 3}
   - {fileID: 21300000, guid: 8c5066c9584cb904e94771d5d667db00, type: 3}
   - {fileID: 21300000, guid: dc7b530abeed997448942e29cd80df54, type: 3}
@@ -95,10 +88,8 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 567a671ae218d3143b21e1e986f3173b, type: 3}
   - {fileID: 21300000, guid: 0c1d0eda803de514b947d17aac03ce58, type: 3}
   - {fileID: 21300000, guid: 8cfa023bb44af624d9e47d44313fe439, type: 3}
-  - {fileID: 21300000, guid: 812bf77c24c575c44bee4227a76f7c15, type: 3}
   - {fileID: 21300000, guid: 1fc8777daa285d54baaf6c0cab1a6b0a, type: 3}
   - {fileID: 21300000, guid: 5c35f7fd6e4c486459801724573b2eb6, type: 3}
-  - {fileID: 21300000, guid: b89d122e92c4fc846b2be7deb90b3627, type: 3}
   - {fileID: 21300000, guid: eacf2e2edc6aa484d96d0946f9437500, type: 3}
   - {fileID: 21300000, guid: a07ed86e3cf72bb4d9003bf1066b7702, type: 3}
   - {fileID: 21300000, guid: c46fe96ed9a4e2a4ca1f056d5a645a8b, type: 3}
@@ -106,7 +97,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ed85fdee4c02b054ba4ed20591e4041c, type: 3}
   - {fileID: 21300000, guid: 8c077e7f39994fb48843bb941cff9a7f, type: 3}
   - {fileID: 21300000, guid: 0c0923af96e302746924da14cdc5026b, type: 3}
-  - {fileID: 21300000, guid: b81968df08e9b464d867e6509df31d4c, type: 3}
   m_PackedSpriteNamesToIndex:
   - general_0006
   - w_photonblade
@@ -114,12 +104,9 @@ SpriteAtlas:
   - general_0003
   - Mon_eyecaste
   - items_largecoin
-  - Mon_deatro3
   - Square16x16
   - Mon_slime1
-  - Mon_franco
   - Mon_deatro6
-  - Mon_medmiller
   - Mon_slime3
   - items_smallcoin
   - Mon_eyecasteangry
@@ -130,16 +117,12 @@ SpriteAtlas:
   - general_0001
   - struct_powerplant
   - hero_alort
-  - Mon_smallmiller
   - Mon_slimy
   - w_piano
   - w_wideslash
   - w_weaponcard
-  - Mon_deatro4
-  - Mon_hando3
   - items_itemcard
   - general_0008
-  - Mon_hando2
   - Mon_tomb
   - w_boomblast
   - general_0007
@@ -147,10 +130,8 @@ SpriteAtlas:
   - Mon_slime4
   - w_Calvary
   - general_0000
-  - Mon_deatro2
   - Mon_monstercard
   - Mon_slime2
-  - Mon_largemiller
   - general_0002
   - general_0005
   - w_CircleHitter
@@ -158,7 +139,6 @@ SpriteAtlas:
   - w_BloodFangs
   - Mon_deatro5
   - w_Copy_photonblade
-  - Mon_hando1
   m_RenderDataMap: {}
   m_Tag: MainAtlas
   m_IsVariant: 0
